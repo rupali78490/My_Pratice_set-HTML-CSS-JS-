@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Page</title>
+</head>
+<body>
+
+    <H1 style="height: 60px;  color: rgb(12, 11, 11); padding: 20px; text-align: center;">About Me</H1>
+    <p style="font-size: 16px;">Hello, I am Smrutiranjan Mallick. I am a passionate web developer with experience in creating responsive and user-friendly websites.</p>
+
+    <br>
+    <br>
+
+   <img src="https://c8.alamy.com/comp/MBW9FG/focused-young-developer-coding-late-in-office-writing-script-shown-on-computer-monitors-serious-handsome-coder-programmer-hacker-programming-developi-MBW9FG.jpg" height="400" align="right" ">
+
+
+    <P align="justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae saepe quo error inventore voluptatum unde itaque quia consectetur amet eaque sequi, quaerat laboriosam, exercitationem libero maxime ea iste sint harum explicabo? Corporis nobis magnam officia rem voluptas exercitationem laudantium accusantium aspernatur nihil. Quod sunt ducimus cum, assumenda maiores dolores ipsa enim nisi accusamus, rerum suscipit fuga laboriosam! Culpa labore minus totam aliquam beatae unde quae fugiat, necessitatibus maxime, accusantium dolores, libero suscipit facilis adipisci provident incidunt sit dolorum illum quas eius alias aspernatur molestias doloremque voluptate! Cum velit ea delectus!</P>
+</body>
+</html>
