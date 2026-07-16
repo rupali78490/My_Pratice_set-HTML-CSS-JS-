@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Home Page</title>
+    </head>
+    <body>
+
+        <h1 align="center">Hello I am Rupali barik</h1>
+
+        <br>
+        <hr>
+        <img align="right" border="5"  alt="Profile Image" src="image1.png" width="400" height="400" style="display: block; margin: 50px auto; border-radius: 50%;">
+    <p style="padding: 80px;">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officiis minima ipsam, molestiae quidem soluta quam qui ex architecto aperiam, provident enim delectus. Numquam laudantium quis iure similique laborum est. Facere, natus doloribus! Quasi optio consequatur ab error iste aliquam dicta delectus ut similique accusamus id eveniet, magnam officiis omnis nulla repellat temporibus. Quaerat quam ducimus enim, officia, repudiandae dignissimos nobis doloremque quisquam totam in atque, velit accusantium quas. Reiciendis possimus ipsam tempora laudantium sit nemo, nihil error esse tempore? Totam nihil asperiores, repellendus vitae sint deserunt ducimus itaque quidem, aliquam quia commodi molestias, facere quaerat sit aspernatur laboriosam? Iure corporis ullam ipsam ex nesciunt, tenetur nam reiciendis ipsum perferendis tempora, laudantium quo labore officia distinctio illo amet possimus ab consequuntur! Mollitia, blanditiis velit inventore quia voluptatum sint cum labore distinctio maiores placeat aut dolorem non amet dicta dolorum magnam voluptatibus? Praesentium error rem provident doloremque accusantium iste impedit perferendis quo similique, ducimus minima eveniet odit placeat, aut maxime est dolor architecto aliquid accusamus distinctio, asperiores dolore! Assumenda sunt, neque aspernatur quaerat reprehenderit, voluptatibus doloremque enim error ratione nisi debitis vitae esse nihil placeat minus quos at. Suscipit recusandae ullam saepe minima quam accusantium tempora soluta nesciunt. Magni, accusantium aliquid et quaerat culpa adipisci? Assumenda doloremque quaerat quibusdam voluptas hic soluta vero dignissimos distinctio cupiditate ex. Sint inventore illum eum molestiae reiciendis! Unde voluptas laudantium recusandae! Laboriosam, temporibus, aut ipsum numquam earum tenetur a provident 
+    </p>
+
+    <Table border="5" align="center" style="width: 50%; border-collapse: collapse; text-align: center;" >
+        <tr>
+            <th>
+                Name of Education
+            </th>
+            <th>
+                institute Name
+            </th>
+            <th>
+                Passing Year
+            </th>
+        </tr>
+        <tr>
+            <td>
+                Master of Computer Application
+            </td>
+            <td>
+                NIIS
+            </td>
+            <td>
+                2023
+            </td>
+
+        </tr>
+        <tr>
+            <td>
+                Bachelor of Science
+            </td>
+            <td>
+                Paradeep Degree College
+            </td>
+            <td>
+                2019
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Higher Secondary
+            </td>
+            <td>
+                HK Academy of Science & Technology
+            </td>
+            <td>
+                2017
+            </td>
+
+    </Table>
+
+</body>
+</html>
